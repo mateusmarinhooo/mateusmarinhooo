@@ -1,16 +1,34 @@
-## Hi there 👋
+# Mateus Marinho
 
-<!--
-**mateusmarinhooo/mateusmarinhooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Back-end | JavaScript · Node.js · APIs REST · SQL
 
-Here are some ideas to get you started:
+Construo serviços back-end organizados, com foco em regras de negócio claras, validação de dados e integração confiável com bancos relacionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre
+
+Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Ciência de Dados. Minha trajetória combina fundamentos de software e dados, com foco atual no desenvolvimento back-end com JavaScript e Node.js.
+
+Nos projetos, procuro escrever código legível, tratar erros com cuidado e documentar decisões para que os serviços sejam fáceis de entender e evoluir. Estou aprofundando meus conhecimentos em APIs REST, testes automatizados, SQL e arquitetura de software.
+
+## Tecnologias
+
+**Em foco:** JavaScript · Node.js · APIs REST · SQL  
+**Experiência em projetos:** Python · FastAPI · SQLite  
+**Estudos atuais:** Tecnologias e Desenvolvimento Web e Mobile
+
+## Projeto em destaque
+
+### [Hora Marcada API](https://github.com/mateusmarinhooo/hora-marcada-api)
+API de agendamento desenvolvida com FastAPI e SQLite. Permite consultar horários, reservar e cancelar agendamentos, com validação para evitar conflitos.
+
+## Formação
+
+- Análise e Desenvolvimento de Sistemas
+- Pós-graduação em Ciência de Dados
+- Tecnologias e Desenvolvimento Web e Mobile — em andamento
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/mateus-ribeiro-marinho-156195230/) · [GitHub](https://github.com/mateusmarinhooo)
