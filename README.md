@@ -27,7 +27,7 @@ API de agendamento desenvolvida com FastAPI e SQLite. Permite consultar horário
 
 - Análise e Desenvolvimento de Sistemas
 - Pós-graduação em Ciência de Dados
-- Tecnologias e Desenvolvimento Web e Mobile — em andamento
+- Pós-graduação em Tecnologias e Desenvolvimento Web e Mobile — em andamento
 
 ## Contato
 
