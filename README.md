@@ -1,34 +1,30 @@
-# Mateus Marinho
+<h1 align="center">Mateus Marinho</h1>
+<p align="center">Desenvolvimento back-end · Node.js · APIs REST · SQL</p>
 
-### Desenvolvedor Back-end | JavaScript · Node.js · APIs REST · SQL
+### 👋 Sobre mim
 
-Construo serviços back-end organizados, com foco em regras de negócio claras, validação de dados e integração confiável com bancos relacionais.
+Desenvolvo APIs e tenho interesse nas regras que tornam um serviço confiável, como impedir que duas pessoas reservem o mesmo horário. Meu foco atual é o desenvolvimento back-end com JavaScript e Node.js.
 
----
+Sou formado em Análise e Desenvolvimento de Sistemas, pós-graduado em Ciência de Dados e curso pós-graduação em Tecnologias e Desenvolvimento Web e Mobile.
 
-## Sobre
+### ⚡ Tecnologias
 
-Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Ciência de Dados. Minha trajetória combina fundamentos de software e dados, com foco atual no desenvolvimento back-end com JavaScript e Node.js.
+**Foco atual · JavaScript e Node.js**
 
-Nos projetos, procuro escrever código legível, tratar erros com cuidado e documentar decisões para que os serviços sejam fáceis de entender e evoluir. Estou aprofundando meus conhecimentos em APIs REST, testes automatizados, SQL e arquitetura de software.
+![JavaScript e Node.js](https://skillicons.dev/icons?i=js,nodejs)
 
-## Tecnologias
+**No projeto de agendamento · Python, FastAPI e SQLite**
 
-**Em foco:** JavaScript · Node.js · APIs REST · SQL  
-**Experiência em projetos:** Python · FastAPI · SQLite  
-**Estudos atuais:** Tecnologias e Desenvolvimento Web e Mobile
+![Python, FastAPI e SQLite](https://skillicons.dev/icons?i=python,fastapi,sqlite)
 
-## Projeto em destaque
+### 🗓️ Projeto em destaque
 
-### [Hora Marcada API](https://github.com/mateusmarinhooo/hora-marcada-api)
-API de agendamento desenvolvida com FastAPI e SQLite. Permite consultar horários, reservar e cancelar agendamentos, com validação para evitar conflitos.
+**[Hora Marcada API](https://github.com/mateusmarinhooo/hora-marcada-api)** — API para consultar horários, fazer reservas e cancelar agendamentos. A validação impede reservas duplicadas, e os testes documentam o comportamento esperado.
 
-## Formação
+### 📊 Atividade no GitHub
 
-- Análise e Desenvolvimento de Sistemas
-- Pós-graduação em Ciência de Dados
-- Pós-graduação em Tecnologias e Desenvolvimento Web e Mobile — em andamento
+| Contribuições | Linguagens nos projetos |
+| :--- | :--- |
+| [Calendário de atividade](https://github.com/mateusmarinhooo#js-contribution-activity-description) | [Explorar repositórios por linguagem](https://github.com/mateusmarinhooo?tab=repositories) |
 
-## Contato
-
-[LinkedIn](https://www.linkedin.com/in/mateus-ribeiro-marinho-156195230/) · [GitHub](https://github.com/mateusmarinhooo)
+**Contato** · [LinkedIn de Mateus Marinho](https://www.linkedin.com/in/mateus-ribeiro-marinho-156195230/)
